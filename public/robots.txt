@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://mitrajayaraya.com
+
+# Sitemaps
+Sitemap: https://mitrajayaraya.com/sitemap.xml
