@@ -31,7 +31,7 @@ const KontakComponent = () => {
             {message && <p className="text-danger fw-bold">{message}</p>}
           </div>
 
-          <form action="/send.php" method="POST">
+          <form action="https://sales.mitrajayaraya.com/send/send.php" method="POST">
             <div className="row mb-3">
               <div className="col-md-6">
                 <input name="nama" className="form-control" placeholder="Nama *" required />
